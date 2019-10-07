@@ -1,2 +1,2 @@
 # Rest-API-automation-using-python3
-An example of Rest API automationusing Python, Requests lib, Pytest
+An example of Rest API automation using Python, Requests lib, Pytest
